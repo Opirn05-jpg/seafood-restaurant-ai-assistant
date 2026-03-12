@@ -1,0 +1,14 @@
+{
+  "restaurant_name": "Ocean Grill",
+  "currency": "USD",
+  "delivery_fee": 3,
+  "prep_time": "20-30 minutes",
+  "delivery_time": "30-45 minutes",
+  "phone": "+123456789",
+  "address": "Main Street",
+  "delivery_areas": [
+    "Downtown",
+    "Marina",
+    "City Center"
+  ]
+}
