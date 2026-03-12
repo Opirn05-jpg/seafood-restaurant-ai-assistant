@@ -1,2 +1,2 @@
-# seafood-restaurant-ai-assistant
+# AI Restaurant Chatbot Starter Kit
 AI assistant template for seafood restaurants
