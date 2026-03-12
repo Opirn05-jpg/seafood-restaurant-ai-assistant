@@ -1,0 +1,22 @@
+{
+  "menu_items": [
+    {
+      "name": "Grilled Salmon",
+      "description": "Fresh salmon grilled with lemon butter",
+      "price": 18,
+      "available": true
+    },
+    {
+      "name": "Shrimp Plate",
+      "description": "Grilled shrimp served with rice",
+      "price": 14,
+      "available": true
+    },
+    {
+      "name": "Seafood Pasta",
+      "description": "Pasta with shrimp and calamari",
+      "price": 16,
+      "available": true
+    }
+  ]
+}
